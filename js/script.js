@@ -54,3 +54,5 @@ function dateTime() {
     clock();
     setTimeout(dateTime, 500);
 }
+
+dateTime()
